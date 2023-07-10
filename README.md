@@ -5,6 +5,7 @@
 
 ## Activities
 혜원여자고등학교에서 빅데이터, 파이썬 기초 문법, pandas & numpy & matplotlib 라이브러리를 주제로 수업을 진행하였습니다. 차시별 구체적인 활동내용은 아래 블로그에서 확인하실 수 있습니다.  
+(https://velog.io/@d_dior/%ED%95%A8%EC%84%B1%EC%86%8C%EB%A6%AC-%EC%BD%94%EB%94%A9%EA%B3%B5%EA%B0%90%EC%9E%90)
 
 ## Contributors
 
