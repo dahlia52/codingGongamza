@@ -9,6 +9,6 @@
 ## Contributors
 
 - [정지혜](https://github.com/dahlia52)
-- [박신영]
+- [박신영](https://github.com/D-dior) 
 - [이민채]
 - [이수]
