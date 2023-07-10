@@ -10,5 +10,5 @@
 
 - [정지혜](https://github.com/dahlia52)
 - [박신영](https://github.com/D-dior) 
-- [이민채]
-- [이수]
+- [이민채](https://github.com/lmc6v6)
+- [이수](https://github.com/2su2su)
