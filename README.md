@@ -9,6 +9,7 @@
 (https://velog.io/@d_dior/%ED%95%A8%EC%84%B1%EC%86%8C%EB%A6%AC-%EC%BD%94%EB%94%A9%EA%B3%B5%EA%B0%90%EC%9E%90)
 
 <br>
+
 |Lesson|날짜|학습 내용|수업 자료|
 |------|---|---|---|
 |1차시|23.05.25|빅데이터란 & 엔트리|[Lesson1](https://github.com/dahlia52/codingGongamza/blob/main/codingGongamza_Lesson1.pdf)|
