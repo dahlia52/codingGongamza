@@ -12,7 +12,7 @@
 <br>
 
 |Lesson|날짜|학습 내용|수업 자료|
-|:------:|:---:|:---:|:---:|
+|:------:|:---:|---|:---:|
 |1차시|23.05.25|빅데이터란 & 엔트리|[Lesson1](https://github.com/dahlia52/codingGongamza/blob/main/codingGongamza_Lesson1.pdf)|
 |2차시|23.06.15|파이썬 기초문법 (자료형)|[Lesson2](https://github.com/dahlia52/codingGongamza/blob/main/codingGongamza_Lesson2.pdf)|
 |3차시|23.07.13|파이썬 기초문법 (제어문, 반복문)|[Lesson3](https://github.com/dahlia52/codingGongamza/blob/main/codingGongamza_Lesson3.pdf)|
